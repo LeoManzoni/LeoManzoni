@@ -16,19 +16,11 @@ Sou Leonardo Manzoni, estudante de Sistemas de Informação na UFU, apaixonado p
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Java"
+    title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 
 <img 
@@ -51,3 +43,21 @@ Sou Leonardo Manzoni, estudante de Sistemas de Informação na UFU, apaixonado p
 <br/>
 <br/>
 
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=leomanzoni&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+    align="left" 
+    alt="Linguagens mais usadas" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomanzoni&theme=tokyonight&layout=compact&langs_count=&include_all_commits=true" 
+  />
+</p>
